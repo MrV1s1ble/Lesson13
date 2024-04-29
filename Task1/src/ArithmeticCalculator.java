@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class ArithmeticCalculator {
     private int num1;
     private int num2;
