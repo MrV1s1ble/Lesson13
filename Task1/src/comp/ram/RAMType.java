@@ -1,0 +1,5 @@
+package comp.ram;
+
+public enum RAMType {
+    SDRAM, DDRSDRAM, DDR2SDRAM, DDR3SDRAM, DDR4SDRAM, DDR5SDRAM, RIMM
+}
