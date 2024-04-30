@@ -3,7 +3,7 @@ package comp.ram;
 public class Ram {
     private int memoryCapacity;
     private double weight;
-    RAMType ramType;
+    private RAMType ramType;
 
     public int getMemoryCapacity() {
         return memoryCapacity;

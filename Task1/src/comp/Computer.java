@@ -15,11 +15,11 @@ import comp.screen.Screen;
 import comp.screen.ScreenTypes;
 
 public class Computer {
-    Procesor processor;
-    Ram ram;
-    HardDisc hardDisc;
-    Screen screen;
-    Keyboard keyboard;
+    private Procesor processor;
+    private Ram ram;
+    private HardDisc hardDisc;
+    private Screen screen;
+    private Keyboard keyboard;
 
     private final String VENDOR = "Thaiwan";
 

@@ -1,7 +1,7 @@
 package comp.harddisc;
 
 public class HardDisc {
-    HardDiscTypes hardDiscTypes;
+    private HardDiscTypes hardDiscTypes;
     private int memoryCapacity;
     private double weight;
 

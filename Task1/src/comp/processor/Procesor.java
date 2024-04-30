@@ -1,9 +1,9 @@
 package comp.processor;
 
 public class Procesor {
-    Frequency frequency;
-    NumberOfCores numberOfCores;
-    ProcessorManufacturer processorManufacturer;
+    private Frequency frequency;
+    private NumberOfCores numberOfCores;
+    private ProcessorManufacturer processorManufacturer;
     private double weight;
 
     public Frequency getFrequency() {

@@ -1,8 +1,8 @@
 package comp.keyboard;
 
 public class Keyboard {
-    KeyboardTypes keyboardTypes;
-    Illumination illumination;
+    private KeyboardTypes keyboardTypes;
+    private Illumination illumination;
     private double weight;
 
     public KeyboardTypes getKeyboardTypes() {

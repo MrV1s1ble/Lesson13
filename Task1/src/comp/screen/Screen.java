@@ -2,7 +2,7 @@ package comp.screen;
 
 public class Screen {
     private int diagonal;
-    ScreenTypes screenTypes;
+    private ScreenTypes screenTypes;
     private double weight;
 
     public int getDiagonal() {
